@@ -1,0 +1,32 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+body {
+  display: flex;
+  justify-content: center;
+}
+/* #above-scripts {
+
+
+} */
+th {
+  background-color: blue;
+  color: white;
+  text-align: center;
+}
+td {
+  text-align: center;
+  background-color: blue;
+  color: white;
+}
+td:hover {
+  background-color: #115ff4;
+}
+#spinner {
+  width: 5rem;
+  height: 5rem;
+}
